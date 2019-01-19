@@ -26,3 +26,6 @@
 /WindowsFormsApplication1/obj/Debug
 /WindowsFormsApplication2/bin/Debug
 /WindowsFormsApplication2/obj/Debug
+*.db
+*.opendb
+*.db
